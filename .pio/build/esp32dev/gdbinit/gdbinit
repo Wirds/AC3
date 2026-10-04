@@ -1,0 +1,2 @@
+source C:/Actividad_3/.pio/build/esp32dev/gdbinit/symbols
+source C:/Actividad_3/.pio/build/esp32dev/gdbinit/connect
